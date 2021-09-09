@@ -1,0 +1,12 @@
+/* * {
+    border: 1px solid red;
+} */
+.game {
+    margin-left: 30%;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+}
